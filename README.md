@@ -44,3 +44,9 @@ docker-compose up
 This will start the application and expose it on port 5000. 
 You can access the application in your web browser at http://localhost:5000.
 
+![2025-01-24_01-18](https://github.com/user-attachments/assets/e234427f-9a61-4a94-9a42-d477f8d0d292)
+
+![2025-01-24_01-19](https://github.com/user-attachments/assets/a4e99829-3119-47fc-8b8f-1d0eb6f4a830)
+
+
+
