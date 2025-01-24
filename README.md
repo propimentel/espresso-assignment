@@ -1,4 +1,3 @@
-
 **# React Agent Management Application**
 
 This is a React application for managing agent data. 
